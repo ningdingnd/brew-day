@@ -15,20 +15,20 @@ The course aims to enable the experience on working on a *software* but not *cou
 # Brew Day!
 This is a software aims at home brewing enthusiasts. It helps them manage the beer recipes, ingredients, and brewing equipment, making the brewing process more organized and efficient.
 
-## Features
+#### Features
 
-### Recipe Management
-- Create, edit, and delete recipes  
-- Add brewing notes to each recipe  
-- Automatic unit and measurement conversion  
-- Recipe recommendation
+- Recipe Management
+  - Create, edit, and delete recipes  
+  - Add brewing notes to each recipe  
+  - Automatic unit and measurement conversion  
+  - Recipe recommendation
 
-### Ingredient Management
-- Modify and manage ingredients  
-- Generate shopping lists based on selected recipes  
+- Ingredient Management
+  - Modify and manage ingredients  
+  - Generate shopping lists based on selected recipes  
 
-### Equipment Setup
-- Configure and manage brewing equipment  
+- Equipment Setup
+  - Configure and manage brewing equipment  
 
 ## Copyrights
 
