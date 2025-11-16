@@ -12,7 +12,7 @@ The course aims to enable the experience on working on a *software* but not *cou
 * Jing HE: hejing@uic.edu.hk
 * Junru ZHONG: billjrzhong@uic.edu.hk
 
-# Brew Day! - Introduction
+# Brew Day!
 This is a software aims at home brewing enthusiasts. It helps them manage the beer recipes, ingredients, and brewing equipment, making the brewing process more organized and efficient.
 
 ## Features
